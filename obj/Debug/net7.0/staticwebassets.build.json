@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oOQl/RDA9G05PENzOvC9yWSiCSf0Yw7jk9YsACQke9s=",
+  "Source": "google-chat-dotnet-webhook",
+  "BasePath": "_content/google-chat-dotnet-webhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

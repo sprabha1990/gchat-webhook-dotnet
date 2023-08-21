@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "google-chat-dotnet-webhook", "google-chat-dotnet-webhook.csproj", "{7D96EB5D-B0D7-4E89-9EF9-D08A6C63839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D96EB5D-B0D7-4E89-9EF9-D08A6C63839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D96EB5D-B0D7-4E89-9EF9-D08A6C63839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D96EB5D-B0D7-4E89-9EF9-D08A6C63839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D96EB5D-B0D7-4E89-9EF9-D08A6C63839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FEA18D-0D24-4834-B390-3F6FA52EAD57}
+	EndGlobalSection
+EndGlobal
